@@ -1,0 +1,17 @@
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\bin\Debug\kursovaya_rabota.exe.config
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\bin\Debug\kursovaya_rabota.exe
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\bin\Debug\kursovaya_rabota.pdb
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\obj\Debug\kursovaya_rabota.csproj.AssemblyReference.cache
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\obj\Debug\kursovaya_rabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\obj\Debug\kursovaya_rabota.Form1.resources
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\obj\Debug\kursovaya_rabota.Properties.Resources.resources
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\obj\Debug\kursovaya_rabota.csproj.GenerateResource.cache
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\obj\Debug\kursovaya_rabota.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\obj\Debug\kursovaya_rabota.exe
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\obj\Debug\kursovaya_rabota.pdb
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\obj\Debug\kursovaya_rabota.newspapers.resources
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\obj\Debug\kursovaya_rabota.post_office.resources
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\obj\Debug\kursovaya_rabota.publish_house.resources
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\obj\Debug\kursovaya_rabota.supply_newspaper.resources
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\obj\Debug\kursovaya_rabota.publishing.resources
+C:\Users\Nastya\source\repos\kursovaya_rabota\kursovaya_rabota\obj\Debug\kursovaya_rabota.recivePublishHouse.resources

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "665a567e-79e6-4fdc-9272-b52c2d780e70": {
+      "ProjectGuid": "665a567e-79e6-4fdc-9272-b52c2d780e70",
+      "DisplayName": "kursovaya_rabota",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
